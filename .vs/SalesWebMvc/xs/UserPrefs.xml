@@ -1,4 +1,34 @@
 ﻿<Properties StartupConfiguration="{447D6695-16E3-4296-B656-B7BED2D56EA0}|Default">
-  <MonoDevelop.Ide.ItemProperties.SalesWebMvc FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Departments/Index.cshtml">
+    <Files>
+      <File FileName="Models/Department.cs" Line="6" Column="41" />
+      <File FileName="Views/Departments/Index.cshtml" Line="38" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SalesWebMvc" expanded="True">
+            <Node name="SalesWebMvc" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Departments" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SalesWebMvc PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
